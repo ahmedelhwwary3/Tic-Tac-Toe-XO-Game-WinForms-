@@ -1,0 +1,17 @@
+F:\Tic Tac Toe XO Game\Tic Tac Toe XO Game\obj\Debug\net8.0-windows\XO_Before.Form1.resources
+F:\Tic Tac Toe XO Game\Tic Tac Toe XO Game\obj\Debug\net8.0-windows\Tic_Tac_Toe_XO_Game.Properties.Resources.resources
+F:\Tic Tac Toe XO Game\Tic Tac Toe XO Game\obj\Debug\net8.0-windows\Tic Tac Toe XO Game.csproj.GenerateResource.cache
+F:\Tic Tac Toe XO Game\Tic Tac Toe XO Game\obj\Debug\net8.0-windows\Tic Tac Toe XO Game.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tic Tac Toe XO Game\Tic Tac Toe XO Game\obj\Debug\net8.0-windows\Tic Tac Toe XO Game.AssemblyInfoInputs.cache
+F:\Tic Tac Toe XO Game\Tic Tac Toe XO Game\obj\Debug\net8.0-windows\Tic Tac Toe XO Game.AssemblyInfo.cs
+F:\Tic Tac Toe XO Game\Tic Tac Toe XO Game\obj\Debug\net8.0-windows\Tic Tac Toe XO Game.csproj.CoreCompileInputs.cache
+F:\Tic Tac Toe XO Game\Tic Tac Toe XO Game\bin\Debug\net8.0-windows\Tic Tac Toe XO Game.exe
+F:\Tic Tac Toe XO Game\Tic Tac Toe XO Game\bin\Debug\net8.0-windows\Tic Tac Toe XO Game.deps.json
+F:\Tic Tac Toe XO Game\Tic Tac Toe XO Game\bin\Debug\net8.0-windows\Tic Tac Toe XO Game.runtimeconfig.json
+F:\Tic Tac Toe XO Game\Tic Tac Toe XO Game\bin\Debug\net8.0-windows\Tic Tac Toe XO Game.dll
+F:\Tic Tac Toe XO Game\Tic Tac Toe XO Game\bin\Debug\net8.0-windows\Tic Tac Toe XO Game.pdb
+F:\Tic Tac Toe XO Game\Tic Tac Toe XO Game\obj\Debug\net8.0-windows\Tic Tac Toe XO Game.dll
+F:\Tic Tac Toe XO Game\Tic Tac Toe XO Game\obj\Debug\net8.0-windows\refint\Tic Tac Toe XO Game.dll
+F:\Tic Tac Toe XO Game\Tic Tac Toe XO Game\obj\Debug\net8.0-windows\Tic Tac Toe XO Game.pdb
+F:\Tic Tac Toe XO Game\Tic Tac Toe XO Game\obj\Debug\net8.0-windows\Tic Tac Toe XO Game.genruntimeconfig.cache
+F:\Tic Tac Toe XO Game\Tic Tac Toe XO Game\obj\Debug\net8.0-windows\ref\Tic Tac Toe XO Game.dll
